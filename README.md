@@ -1,0 +1,2 @@
+# Lai-go
+Plat Form
